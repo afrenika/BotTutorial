@@ -1,5 +1,6 @@
 public class MathFunc {
     public static double func(int var, String[] args){
+
         int t = 0;
         double result = 0;
         switch (var){
